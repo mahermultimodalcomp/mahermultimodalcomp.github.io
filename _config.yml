@@ -7,13 +7,13 @@ logo: # filename of a logo image that has been placed into your images directory
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Adrienne Maher
-  avatar: bio-photo.jpg
+  avatar: Adie Slide 1.jpg
   bio: "A brief description of yourself."
   email: #emailaddress
   # Do not include the @ symbol in your Twitter username
   twitter: #username
   linkedin: #username
-  github: #username
+  github: #mahermultomodalcomp
   orcid: # ID Number (ex. 0000-0000-0000-0000)
   researchgate: #username
   mendeley: #username
@@ -42,8 +42,8 @@ owner:
 
 # The following adjust the accents for your site. If you would like to further edit colors, fonts, font sizes, etc.
 # you may do so in _sass/variables.scss
-highlight-color: '1E90FF'
-lowlight-color: '6495ED'
+highlight-color: '#1E90FF'
+lowlight-color: '#6495ED'
 
   # NOTE: If you would like your site to be licensed under a creative commons license, uncomment the 'yes' next to the type of license you wish to use.
 creative-commons:
